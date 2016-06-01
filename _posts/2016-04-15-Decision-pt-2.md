@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decision pt 2"
-date: 2016-05-13
+date: 2016-04-15
 ---
 
 Let me catch you up:
