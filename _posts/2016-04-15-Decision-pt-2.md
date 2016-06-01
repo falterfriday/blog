@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decision pt 2"
+title: "Decision pt. 2"
 date: 2016-04-15
 ---
 
