@@ -9,7 +9,7 @@ Web development and I have circled each other for a long time. Here's our backst
 
 <strong>High School:</strong>
 
-Back in high scool I designed a laughably basic site for a history class, complete with moving flag element. Flash, maybe? No idea...
+Back in high school I designed a laughably basic site for a history class, complete with moving flag element. Flash, maybe? No idea...
 
 But, alas, I didn't stick with it. I decided to go for a degree in chemical engineering, noting too tech related.
 
