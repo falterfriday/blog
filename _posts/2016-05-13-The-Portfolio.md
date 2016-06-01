@@ -4,7 +4,7 @@ title: "The Portfolio"
 date: 2016-05-13
 ---
 
-Ugh... Boostrap made me want to punch a baby. Sometimes... Right in its face.
+Ugh... Boostrap navbars made me want to punch a baby. Sometimes... Right in its face.
 
 The second project was designing a portfolio on CodePen. While the experience was much better than the struggles of my first page (Tribute), the navbar was a huge headache. I was trying to make sure that, in addition to working, it was mobile friendly. I'm getting the feeling that anything designed for the web these days needs to be mobile friendly, if not mobile first.
 
