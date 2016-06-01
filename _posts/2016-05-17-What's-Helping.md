@@ -8,7 +8,7 @@ Once I finished up with the Portfolio project, I realized in a very real way tha
 
 There are a few weeks until the start of the bootcamp, so I've been taking some time to try to immerse myself in the culture - listening to podcasts, reading books, etc...  So I'm going to take a few moment to talk about a few things I've picked up.
 
-I came across a Medium article that recommended a few podcasts to check out if you were new to coding. In an effort to take sound advice, I did. The first up was CodeNewbie.
+I came across a Medium article that recommended a few podcasts to check out if you were new to coding. In an effort to take sound advice, I did. The first up was <a href="http://www.codenewbie.org" target="_blank">CodeNewbie</a>.
 
 I've been floored by it. The host, Saron, does an amazing job at bringing in guests who's industry tenure varies and having them talk about their experiences, how they got there, and words of encouragement for people who are just getting their feet wet. I started listening to the first podcast to see how it developed and I'm finding that even the old episodes, 2yrs+, have helpful insights, tips, and links (some are dead though).
 
