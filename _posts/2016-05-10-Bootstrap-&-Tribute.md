@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bootstrap & Tribute"
-date: 2016-04-10
+date: 2016-05-10
 ---
 Bootstrap is a blessing and a curse. Here... let me explain.
 
