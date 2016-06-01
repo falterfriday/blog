@@ -11,27 +11,25 @@ As it turns out, utilizing Bootstrap, while adding in CSS is super effective. It
 
 That aforementioned was the blessing. Now, the curse.
 
-At the end of Free Code Camp's Basic Front End, you're tasked with completing two builds/projects. The first, a Tribute page for whomever or what ever you'd like, you design from scratch in CodePen. This is the one I'll focus on for the remainder of the post.
+At the end of Free Code Camp's Basic Front End, you're tasked with completing two builds/projects. The first, a Tribute page for whomever or whatever you'd like, you design it from scratch in <a href="https://www.codepen.io" target="_blank">CodePen</a>. This is the one I'll focus on for the remainder of the post.
 
 Create a tribute page from scratch.... Sound like fun, right?
-
-
 
 OMGWTFBBQ...
 
 Trying to keep all of the CSS selectors, properties, inherited styling, straight - while adding Bootstrap modifications... Kill me.
 
-I was so frustrated with my first attempt at the Tribute page, I scrapped it. Seriously. After 2 days of working on it, I scrapped it completely. I didn't even feel bad. I decided that while cementing the foundation, I needed to take my eyes off of the creative aspect. I decided to recreate the example page (without looking at the code). Their example page looked fairly plain and simple, yet effective and clean. So, I got to work.
+I was so frustrated with my first attempt at the Tribute page, I scrapped it. <strong>Seriously</strong>. After 2 days of working on it, I scrapped it completely. I didn't even feel bad. I decided that while cementing the foundation, I needed to take my eyes off of the creative aspect. I decided to recreate the example page (without looking at the code). Their example page looked fairly plain and simple, yet effective and clean. So, I got to work.
 
 After a few frustrating days (seriously, days), I was finished with my page. It wasn't a perfect recreation and there were still a few things that had me stymied, but I haven't had a overwhelming sense of completion like that since college. Ahhh...
 
 Starting with this post, going forward I'm going to link any and all resources I've come across that helped me in my travels.
 
-CodePen - Allows you to experiment with your code, live.
+<a href="https://www.codepen.io" target="_blank">CodePen</a> - Allows you to experiment with your code, live.
 
-Medium - Features articles about whatever you're into.
+<a href="https://www.medium.com" target="_blank">Medium</a> - Features articles about whatever you're into.
 
-FCC's Blog  - Articles that keep your spirits up when your code kicks in your teeth.
+<a href="https://medium.freecodecamp.com" target="_blank">FCC's Blog</a>  - Articles that keep your spirits up when your code kicks in your teeth.
 
 
 
