@@ -20,7 +20,7 @@ NEXT!!
 
 I have nothing to contribute to a portfolio page aside from another page that I designed, on the same site, from an example. Yeah... not the best portfolio page. Looking back on it now, it's a hot bag of crap. But I'm fairly new to this, so I'm not worried. Stock pictures place holders for the win!
 
-Check it out <a href="https://codepen.io/falterfriday/pen/MyzNVe" target="_blank">here</a>. Make sure to try it on mobile, or make your browser window really small.
+Check it out <a href="https://codepen.io/falterfriday/full/MyzNVe/" target="_blank">here</a>. Make sure to try it on mobile, or make your browser window really small.
 
  
 
