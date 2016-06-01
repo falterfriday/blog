@@ -4,11 +4,12 @@ title: "Decision pt. 2"
 date: 2016-04-15
 ---
 
-Let me catch you up:
+<h3>Let me catch you up</h3>
 
-I've moved to DC from Seattle
-I've left my job in sales
-I have no idea what I'm going to do
+I've moved to DC from Seattle.
+I've left my job in sales.
+I have no idea what I'm going to do.
+
 Well, now that you're caught up, let me fill you in on what I've decided to do with my life:
 
 Nothing.
