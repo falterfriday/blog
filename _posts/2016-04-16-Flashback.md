@@ -7,7 +7,7 @@ date: 2016-04-16
 
 Web development and I have circled each other for a long time. Here's the story.
 
-===  1999 (good god I'm old):
+===  1999 (good god I'm old):===
 Back in high scool I designed a laughably basic site for a history class, complete with moving flag element. Flash, maybe? No idea...
 
 But, alas, I didn't stick with it. I decided to go to aim for a degree in chemical engineering, noting too tech related.
