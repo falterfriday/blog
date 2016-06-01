@@ -16,4 +16,4 @@ Nothing.
 
 For now at least.
 
-I decided to take a few weeks to get the trip out of my system (Seattle ⇒ DC, in March... yuck) and get the apartment set up. At this point, I'm pretty sure of the direction I want to go. A solid week of driving gives you an absurd amount of time to think.
+I decided to take a few weeks to get the trip out of my system (Seattle ⇒ DC, in March...) and get the apartment set up. At this point, I'm pretty sure of the direction I want to go. A solid week of driving gives you an absurd amount of time to think.
