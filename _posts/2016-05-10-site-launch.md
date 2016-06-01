@@ -4,10 +4,10 @@ title: "First!"
 date: 2016-05-10
 ---
 
-Well. Finally got around to putting a site together. Lame. I know. This is my first blog post.
+Well, I finally got around to putting a site together. Lame, I know. This is my first fully functioning site and my first blog post. Hence the post name - First!
 
-I'm not even really sure how to do this, but I'm going to give it a shot. I need an outlet to record the journey I've decided to take.So... Blog.
+I'm not even really sure how to do this, but I'm going to give it a shot. I need an outlet to record the journey I've decided to take. I'm wiriting these roughly half a month ahead at this point. Don't worry. I'll catch up.
 
-More succinctly: Blog!
+So... Blog!
 
-I'm going to talk about the joys and perils of learning to code.
+Hopefully, over time, you'll notice small to massive changes to this site. Some will be awesome, most will be catastrophoc. Bare with me and, above all, please be patient. The only thing I've really laid down in the foundation is that to become a developer is to become familiar with frustration. 
