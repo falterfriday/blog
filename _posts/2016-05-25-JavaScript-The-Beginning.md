@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JavaScript - The Beginning"
-date: 2016-05-04
+date: 2016-05-25
 ---
 This post should be fairly brief. I've been playing around with algorithms and JavaScript with Free Code Camp. It's been fairly easy and straightforward, although the challenges are, well, challenging. I'm quickly learning that there's more than one way to skin a cat.
 
