@@ -5,7 +5,7 @@ date: 2016-05-25
 ---
 This post should be fairly brief. I've been playing around with algorithms and JavaScript with Free Code Camp. It's been fairly easy and straightforward, although the challenges are, well, challenging. I'm quickly learning that there's more than one way to skin a cat.
 
-The problem set will give you  a hint like "check out .push() or .pop()" to solve this. After a few moments of thought, you may not even need to use either. Moreover, the problem may be solved in a completely different way, using different methods that are faster (read: fewer lines of code).
+The problem set will give you  a hint like "check out <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push" target="_blank">.push()</a> or .pop()" to solve this. After a few moments of thought, you may not even need to use either. Moreover, the problem may be solved in a completely different way, using different methods that are faster (read: fewer lines of code).
 
 It's been fun finding different ways to solve each, proclaiming "Woo Hoo!!!" when solving the more frustrating/difficult problems.
 
