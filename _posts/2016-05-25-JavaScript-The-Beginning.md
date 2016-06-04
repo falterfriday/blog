@@ -13,9 +13,9 @@ That being said, some are super frustrating. I've started using a notebook to wr
 
 Helpful Links:
 
-w3schools.com - I've linked this site before, but I'm doing it again to emphasize just how valuable it's been for filling in the holes.
+<a href="http://www.w3schools.com/js/default.asp" target="_blank">w3schools.com</a> - I've linked this site before, but I'm doing it again to emphasize just how valuable it's been for filling in the holes.
 
-OverAPI.com - Cheat sheet for properties and methods. Super helpful if you're blanking a method and/or what it does.
+<a href="http://overapi.com/javascript" target="_blank">OverAPI.com</a> - I realize that I've linked this several times now, but it's been that valuable. Super helpful if you're blanking a method and/or what it does.
 
 
 
